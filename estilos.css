@@ -1,0 +1,65 @@
+body {
+    background-color: #99CCFF;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+#capa1 {
+    background-color: #006600;
+    top: 230px;
+    width: 865px;
+    border-radius: 15px;
+    border-width: 1px;
+}
+
+#capa2 {
+    background-color: #3399CC;
+    color: #000000;
+    border-radius: 10px;
+    border-color: #FADF98;
+    width: 150px;
+    padding: 7px;
+    margin: 5px;
+    float: left;
+    border: 2px;
+    border-color: #FADF98;
+    border-style: solid;
+    size: 15;
+}
+
+#capa3 {
+    background-color: #3399CC;
+    color: #000000;
+    border-radius: 10px;
+    border-color: #FADF98;
+    width: 125px;
+    size: 15;
+    border: 2px;
+    border-color: #FADF98;
+    border-style: solid;
+    padding: 7px;
+    margin: 5px;
+    float: left;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+form {
+    width: 865px;
+    height: 230px;
+    margin: auto;
+    background-color: #006600;
+    border-radius: 15px;
+}
+
+#capa4 {
+    background-image: url(safa.png);
+    background-repeat: no-repeat;
+    background-position: 400px -25px;
+    border-radius: 30px;
+    text-align: center;
+    font: #990000;
+}
